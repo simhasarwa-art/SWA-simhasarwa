@@ -1,0 +1,2 @@
+# SWA-simhasarwa
+statticwebapp
